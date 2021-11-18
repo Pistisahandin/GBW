@@ -1,0 +1,130 @@
+
+
+.serviette {
+
+    height: 350px;
+
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("photos/image 5.png") no-repeat center / cover ;
+
+        }
+
+/*.letter {
+            margin-left: 950px;
+
+}*/
+
+.foot{ background-color:#480000 ;
+    border:1px solid darkred;
+    height: 300px;
+    color: white;
+    padding-top:40px;
+
+
+}
+.bar {
+     border-bottom: 1px solid white;
+ }
+
+.foot1 {color: white;
+    font-family: 'Poppins', sans-serif;
+    background-size: 22px;
+    font-weight: 600;
+
+}
+h4,h3 {font-family: 'Poppins', sans-serif;
+    background-size: 33px;
+    font-weight: 600px;
+
+}
+p { background-size: 16px;
+    font-weight: 400px;
+
+}
+a { font-weight: 400px;
+    background-size: 16px;
+
+}
+
+
+.aider { background-color: #AFAFAF;
+    height: 45vh;
+
+}
+
+.aido {
+    background-color: #C4C4C4;
+    height: 13vh;
+}
+
+.bas { background-color: #E5E5E5;
+height: 60vh;
+}
+
+  .bar {
+      border-bottom: 1px solid red;
+
+
+  }
+
+.couleurdefond{
+    background-color:#E5E5E538;
+    height: 60vh;
+
+}
+
+.fourthparagraph{
+    margin-top: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2rem;
+
+    }
+
+
+
+.bg { background-color: #E5E5E5;
+    border-radius: 0;
+
+}
+
+.bg1 {border: none !important ;
+    background-color:#E5E5E5 !important;
+   
+
+}
+
+.ground { background-image: url( photos/image\ 6.png);
+    height: 60vh;
+    color: white;
+
+}
+.caback { background-image: url();
+
+}
+.bbg { background: url(photos/image\ 7.png) no-repeat;
+    height: 30vh;
+
+}
+.bbg1 { background: url(photos/image\ 8.png) no-repeat;
+    height: 30vh;
+
+}
+.bbg2 { background: url(photos/image\ 8\ \(1\).png) no-repeat;
+    height: 30vh;
+
+}
+.police {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600px;
+}
+.base {
+    margin-right: 4rem !important;
+}
+ .lien1 { text-decoration: none !important;
+
+ }
+ .lien1:hover {
+     text-decoration: underline !important;
+ }

@@ -1,0 +1,333 @@
+
+html, body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    text-decoration-color: #797979;
+}
+.entête{
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%), url("images/pexels-nappy-935985.jpg") no-repeat center / cover ;
+    background-size: cover;
+    background-position: center;
+    width: 100%;}
+    
+    .imlog{
+width: 6rem;
+left: 188px;
+top: -206px;
+border-radius: 0px;
+
+    }
+    
+    .couleurbout{
+        background-color: #FF477E;
+        border-radius: auto;
+    }
+    .nav-item{
+        margin-left: 2rem;
+    }
+    .stparagraph{
+        padding-top: 15rem;
+        padding-bottom: 15rem;
+        text-align: center;    
+    }
+    .ndparagraph{
+        margin-top: 4rem;
+        font-family: 'Lora', serif;
+        font-size: small;
+        justify-content: center;
+        text-align: center;
+    }
+    .fourthparagraph{
+        margin-top: 5rem;
+        font-family: 'Lora', serif;
+        font-size: small;
+        justify-content: center;
+        text-align: center;
+        padding-top: 2rem;
+    }
+    .bar1{
+        margin-left: 47%;
+        margin-top:1rem;
+        background-color:#FF477E;
+        height: 0.2rem;
+        width: 4rem;
+    }    
+
+    
+    
+    .margecarousel{
+        margin-top: 3rem;
+        justify-content: center;
+    } 
+    .justif_txt{
+         text-align: justify;     
+         justify-content: end; 
+        margin-top: 1rem;   }
+    .couleurdefond{
+        background-color:#E5E5E538;
+    }
+    .couleurdefond1{
+        background-color:#E5E5E538;
+    }
+    .rdparagraph{
+        padding-top: 3rem;
+        margin-top: -2rem;
+        font-family: 'Lora', serif;
+        font-size: small;
+        justify-content: center;
+        text-align: center;
+    }
+    .cardetext{
+        text-align: justify;
+
+    }
+    
+    .bi-eye{
+        
+        font-size: 5%;
+        margin-bottom: 3rem;
+        margin-top: 1.5rem;
+        margin-left: 6.5rem;
+        color: black;
+    }
+    .card-titl{
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .titrecorri{
+        text-align: left;
+        justify-content: left;
+        margin-bottom: 1rem;
+        font-weight: bold;
+    }
+    
+    .spacetopcard{
+        margin-top: 3rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    .spacetopcarde{
+        margin-top: 3rem;
+        
+    }
+    .mission{
+        width: 40px;
+        height: 40px;
+    }
+    .bar2{
+        background-color:#FF477E ;
+        width: 3rem;
+        height: 0.1rem;
+        margin-left: 6.2rem;
+       margin-top:-2rem;
+       margin-bottom: 1rem; 
+ }
+ .margebas{
+     height: 4rem;
+ }
+ .btn-bgcol{
+    border-style: outset; 
+    border-color: #FF477E;
+ }
+
+    .ensavoirplus{
+        color: #FF477E;
+    }
+  .ensavoirplus:hover{
+    background-color: #FF477E;
+    color: white;
+  }
+  .part{
+      padding-top: 2rem;
+  }
+    .partenaires{
+        margin-top: 2rem;
+    }
+    .partenaire{
+        margin-top: 2.5rem;
+        margin-bottom: 2.5rem;
+    }
+    .soutient{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        font-family: 'Lora', serif;
+        font-size: 1.5rem;
+        font-weight: 200;
+        justify-content: center;
+        
+    }
+   
+
+
+
+
+
+   body{
+       font-family: 'Poppins', sans-serif; ;
+   }
+   .entêt_blog{
+    background: url("images/IMG_20210306_182924_093 1.png") no-repeat;
+    height:  80vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;}
+
+    .support{
+        background: #FFFFFF;
+        border-radius: 15px;
+        font-family: 'Poppins', sans-serif;
+        color: #636C77;
+        padding-top: 0.5rem;
+        padding-left: 4rem;
+        padding-right: 4rem;
+        padding-bottom: 2.5rem;
+        min-width: 70%;
+        box-shadow: silver;
+        margin-bottom: 3rem !important;
+    }
+    .blogrougecolor{
+        color: #A31A2F;
+    }
+    .titrblog{
+        
+        font-weight: 400;
+        font-size: 2.5rem;
+        letter-spacing: normal;
+        justify-content: center;
+        text-align: center;
+        padding-top: 2.5rem;
+    }
+    .para_title{
+        margin-top: 1rem;
+        justify-content: center;
+        text-align: center;
+        font-weight: 300;
+        font-size: 1.3rem;
+      
+    }
+    .espacement{
+        height: 10rem;
+    }
+    .imgalaune{
+
+        
+        background-size: cover;
+        background-position: center;
+        width: 90%;
+    }
+    .topart{
+        margin-top: 3rem;
+        padding: 2rem;
+    }
+    
+    .mens1{
+        margin-top: 8rem;
+        color: black;
+    }
+    .mens2{
+        margin-top: 5rem;
+        text-align: justify;
+        margin-bottom: 3rem;
+    }
+    .lasuite{
+        font-weight: 600;
+        font-size: 16px;
+        color: #A31A2F;
+        font-family: 'Poppins', sans-serif;
+        margin-right:0.3rem;
+    }
+    .art{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 1.3rem;
+        left: 106px;
+        color: black;
+        margin-top: 1.5rem;
+        margin-left: 0.3rem;
+    }
+    .livre{
+        vertical-align: 0%;
+    }
+    .maart{
+        margin-top: 5rem;
+    }
+    
+    .sit{
+        text-align: justify;
+        min-height: 20vh;
+    }
+    .partir{
+        margin-bottom: 3rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+          }
+          
+     .plusart{
+         margin-left: 47%;
+     }
+    
+    @media  ( width: "600px") {
+        
+        .carousel-inner{
+            height: 20rem;
+            width: 10rem;
+        }
+        
+    }
+    .youtb{
+       justify-content: center;
+    padding-top: 2rem; 
+    padding-left: 2rem;
+}
+    .circle{
+        background:url("images/imagesmens.jpg") no-repeat ;
+        width: 600px;
+        height:  500px;
+        background-size: 100% 100%;
+        float: left;
+        shape-outside: element();
+        margin:40px;
+    }
+    .onvrea{
+        padding-top: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        color: black;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+
+    }
+    .doul{
+        font-family: 'Poppins', sans-serif;
+        font-weight:500;
+        font-size: 2rem;
+        color: #FF477E;
+        margin-top: 2rem;    
+    }
+    .pre{
+        justify-content: center;
+        text-align: center;
+    }
+    .pree{
+        padding-right: 2rem;
+    }
+   .circle2{
+    background: url("images/unnamed\ \(3\).jpg") no-repeat;
+    width: 600px;
+    height:  500px;
+    background-size: 100% 100%;
+    float: left;
+    shape-outside: element();
+    margin:40px;
+   }
+   .circle3{
+    background: url("images/imagemens3.jpg") no-repeat;
+    width: 600px;
+    height:  450px;
+    background-size: 100% 100%;
+    float: left;
+    shape-outside: element();
+    margin:40px;
+   }
